@@ -1,5 +1,5 @@
 \Problem name: multiperiod_prod_planning                                        
-\FICO Xpress v8.11.3, Community, written 10:34:52, Jul 13, 2021
+\FICO Xpress v8.11.3, Community, written 11:32:28, Jul 13, 2021
 
 Minimize
  40 X(0) + 40 X(1) + 40 X(2) + 40 X(3) + 40 X(4) + 40 X(5) + 45 Y(0) + 45 Y(1)
